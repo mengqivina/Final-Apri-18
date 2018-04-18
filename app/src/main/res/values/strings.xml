@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">A</string>
+    <string name="name">Name</string>
+    <string name="gender">Gender</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="describe">Describe yourself</string>
+    <string name="next">Next</string>
+    <string name="result">Result</string>
+    <string name="profile">Profile</string>
+    <string name="tip">Tip: Do not know what to write? Get some inspiration from the web!
+</string>
+    <string name="cong">Congratulations! Now you can try drawing feature.</string>
+    <string name="clear">Clear All</string>
+    <string name="save">Save</string>
+    <string name="draw">Draw</string>
+    <string name="read">Read from cloud</string>
+    <string name="writetocloud">Write to cloud</string>
+
+
+</resources>

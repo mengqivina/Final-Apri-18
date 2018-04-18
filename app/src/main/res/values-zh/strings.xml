@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">名字</string>
+    <string name="profile">档案</string>
+    <string name="result">档案结果</string>
+    <string name="gender">性别</string>
+    <string name="female">女</string>
+    <string name="male">男</string>
+    <string name="tip">提醒：上网搜搜</string>
+    <string name="describe">请介绍你自己</string>
+    <string name="next">下一步</string>
+    <string name="cong">恭喜完成。请尝试画图吧
+</string>
+    <string name="draw">画图</string>
+    <string name="writetocloud">上传</string>
+    <string name="clear">清除</string>
+    <string name="read">读取云端图片</string>
+    <string name="save">保存</string>
+
+</resources>
+
